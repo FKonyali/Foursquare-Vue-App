@@ -1,4 +1,4 @@
-# arabam
+# Foursquare Vue App
 
 ## Project setup
 ```
