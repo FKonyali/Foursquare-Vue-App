@@ -58,7 +58,7 @@ export default {
     .categories
         display: flex
         flex-wrap: wrap
-        margin: 0 -15px
+        margin: 20px -15px 0
 
         &__box
             display: flex
@@ -71,6 +71,9 @@ export default {
         &__title
             text-align: center
             height: 100%
+            flex: 1
+            display: flex
+            align-items: center
 
     [data-search]
         cursor: pointer
